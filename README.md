@@ -1,4 +1,4 @@
-# CodeAlpha Basic Network Sniffer
+# Basic Network Sniffer
 
 Advanced command-line packet sniffer built with Python and Scapy.
 The project supports live packet capture, protocol-aware parsing, JSONL/PCAP exports, offline PCAP analysis, interface discovery, and operational troubleshooting for Windows environments.
